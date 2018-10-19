@@ -600,6 +600,66 @@
 				"At Church",
 				"At 742 Evergreen Terrace"
 			]
+		},
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Who got gold in the 2012 Mens Triathlon Olympics?",
+			"correct_answer": "Alistair Brownlee",
+			"incorrect_answers": [
+				"Javier Gómez",
+				"Jonathan Brownlee",
+				"Erin Densham"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What term is used for a network security system that prevents unauthorized access to or from a private network??",
+			"correct_answer": "Firewall",
+			"incorrect_answers": [
+				"Router",
+				"Switch",
+				"WAN"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Presto is the layout engine for which browser?",
+			"correct_answer": "Opera",
+			"incorrect_answers": [
+				"Firefox",
+				"Chrome",
+				"IE"
+			]
+		},
+		{
+			"category": "Science: Computers",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What nationality is Julian Assange, the founder of Wikileaks?",
+			"correct_answer": "Australian",
+			"incorrect_answers": [
+				"Ecuadorian",
+				"Swedish",
+				"Greek"
+			]
+		},
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Toothed and Baleen are both examples of what?",
+			"correct_answer": "Whale",
+			"incorrect_answers": [
+				"Otter",
+				"Tiger",
+				"Fish"
+			]
 		}
 	]
 }
